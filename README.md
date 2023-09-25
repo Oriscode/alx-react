@@ -1,3 +1,3 @@
 # alx-react
 
-Create and run Webpack using a basic installation
+Create and run Webpack - basic installation
